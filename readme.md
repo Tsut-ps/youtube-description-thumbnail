@@ -2,6 +2,8 @@
 
 YouTube のサムネイルを概要欄下部に表示する、Chrome 拡張機能です。
 
+![image](https://github.com/user-attachments/assets/70aa3bce-dd01-4634-86f2-e9ab6c9e61bf)
+
 ## 仕様/挙動
 
 - 自分用なのでとてもシンプルです。概要欄にサムネイルを表示する、以外の機能はありません。
