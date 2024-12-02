@@ -16,6 +16,12 @@ YouTube のサムネイルを概要欄下部に表示する、Chrome 拡張機�
 - 画像は押しても何も起きません。右クリックして表示/保存してください。
 - Eagle 等と組み合わせて使っても良さそう (一応、ALT 属性にタイトルを含めるようにしました)。
 
+## 注意
+
+無保証です。使ったことによってなにか問題が生じても責任は負いません。  
+
+動かなかったら Issue を立てるか SNS で「動かん～」っていうか、フォークして自分で書いてみてくだされ～。
+
 ## リファレンス
 
 https://developer.chrome.com/docs/extensions/get-started/tutorial/scripts-on-every-tab?hl=ja
